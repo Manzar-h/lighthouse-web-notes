@@ -7,3 +7,6 @@ This repository contains all of the notes taken by Manzar for the Lighthouse Lab
 [Manzar] https://github.com/ManzarTelus/lighthouse-web-notes
 
 [Lighthouse Labs] https://www.lighthouselabs.ca/en/web-development-bootcamp?gclid=CjwKCAiA68ebBhB-EiwALVC-Np0UVuAxaNqJfSNsWL83pRZT0ALOdaK7vJIbFkPk63Gc9YcnXPZFjxoCXAIQAvD_BwE
+
+* Week 1
+  * Day 1
